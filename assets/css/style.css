@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #1E90FF;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #1E90FF;
   background-color: white;
 }
 /* main body */
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #0058b1;
 }
 
 /* main blockqoute */
@@ -351,7 +351,7 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .dodgerblue {
   padding: 0 10px;
 }
 
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #0058b1 !important;
 }
 
 #skills .card.large {
@@ -548,8 +548,8 @@ small {
 
 /* main .teal-text */
 
-.teal-text {
-  color: #008073 !important;
+.dodgerblue-text {
+  color: #1E90FF !important;
 }
 
 /* .teal-text {
@@ -558,8 +558,8 @@ small {
 
 /* .teal */
 
-.teal {
-  background-color: #008073 !important;
+.dodgerblue {
+  background-color: #1E90FF !important;
 }
 
 /* .teal {
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #1184f8;
     height: 56px;
     line-height: 56px;
   }
